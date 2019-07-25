@@ -1,0 +1,12 @@
+{
+  "name": "cpm",
+  "version": "0.0.4",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
